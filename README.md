@@ -23,9 +23,11 @@ Public License along with this program.  If not, see
 ---------------------------------------------------------------
 
 Shadowplay is a light installation for TIAN's chandelier
-(www.tian-vienna.com/) Concept & Production by design agency
-STRUKT Vienna (www.strukt.com) Light Design & Hardware by
-Gordan Savicic (www.yugo.at)
+(www.tian-vienna.com) 
+Concept & Production by design agency STRUKT Vienna 
+(www.strukt.com) 
+Light Design & Hardware by Gordan Savicic 
+(www.yugo.at)
 
 Two pan/tilt robotic units equipped with 10W LEDs were
 installed inside the chandelier.  Through algorithmic
