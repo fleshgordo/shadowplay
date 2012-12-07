@@ -470,7 +470,7 @@ void checkDarkness(){
   }else{
     darkTimer++;
     hasChecked=false;
-    if(darkTimer>10000){
+    if(darkTimer>15000){
       darkTimer=0;
       server_check();
     }

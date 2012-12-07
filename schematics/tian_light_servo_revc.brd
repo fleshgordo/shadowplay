@@ -3653,7 +3653,14 @@ design rules under a new name.</description>
 <contactref element="C3" pad="-"/>
 <wire x1="63.2025" y1="29.5675" x2="70.8025" y2="32.1975" width="0" layer="19" extent="16-16"/>
 <wire x1="52.07" y1="6.35" x2="63.2025" y2="29.5675" width="0" layer="19" extent="1-1"/>
+<wire x1="46.6325" y1="6.35" x2="52.07" y2="6.35" width="0" layer="19" extent="16-16"/>
 <wire x1="33.3375" y1="6.35" x2="46.6325" y2="6.35" width="0" layer="19" extent="16-16"/>
+<wire x1="26.3125" y1="6.35" x2="33.3375" y2="6.35" width="0" layer="19" extent="16-16"/>
+<wire x1="27.305" y1="22.225" x2="26.3125" y2="6.35" width="0" layer="19" extent="16-16"/>
+<wire x1="33.9725" y1="26.67" x2="27.305" y2="22.225" width="0" layer="19" extent="16-16"/>
+<wire x1="18.7325" y1="26.67" x2="27.305" y2="22.225" width="0" layer="19" extent="16-16"/>
+<wire x1="13.335" y1="26.67" x2="18.7325" y2="26.67" width="0" layer="19" extent="1-1"/>
+<wire x1="13.8125" y1="33.02" x2="13.335" y2="26.67" width="0" layer="19" extent="16-16"/>
 </signal>
 <signal name="+6V2">
 <contactref element="IC1" pad="3"/>
